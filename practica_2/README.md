@@ -1,5 +1,6 @@
 # Practice II Machine Learning
 ### <font color='red'> Discalimer: The data needed to perform this work is not uploaded within the Github push because it exceedes the size available. </font>
+# You will find the work at: https://github.com/gcolomer/practicas_lab_class/tree/main/practica_2
 ## `Masters Degree in Data Science`
 # <font color='orange'>CUNEF</font>
 ## By Gabriela Gutiérrez-Colomer Santos: g.gutierrezcolomer@cunef.edu
