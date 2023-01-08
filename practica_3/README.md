@@ -8,17 +8,15 @@
 
 ### <font color='Red'>Important: The ``requirements.txt`` is located in the environment directory, please, check that you have all the packages and extensions before proceeding with this work.</font>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
 #### practica_3 has the following structure: 
-<i style="color:lightblue" class="fa fa-folder"></i> data
-<i style="color:lightblue" class="fa fa-folder"></i> environment
-<i style="color:lightblue" class="fa fa-folder"></i> html
-<i style="color:lightblue" class="fa fa-folder"></i> images
-<i style="color:lightblue" class="fa fa-folder"></i> models
-<i style="color:lightblue" class="fa fa-folder"></i> notebooks
-
-
+1. data
+2. environment
+3.  html
+4.  images
+5.  models
+6. notebooks
 
 
 
